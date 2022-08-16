@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking for help with Layer 2 scaling solutions 
 - 💬 Ask me about: Blockchain Development, smart contract auditing 
-- 📫 How to reach me: twitter/victorchimakanu -  email: victorchimakanu@gamil.com 
+- 📫 How to reach me: twitter/victorchimakanu -  email: victorchimakanu@gmail.com 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: In love with the marvel cinematic universe 
 
