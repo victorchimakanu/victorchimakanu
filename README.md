@@ -7,5 +7,5 @@
 - 💬 Ask me about: Blockchain Development, smart contract auditing 
 - 📫 How to reach me: twitter/victorchimakanu email/victorchimakanu@gamil.com #/+2348099900552
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: In love with the marvel Cinematic 
--->
+- ⚡ Fun fact: In love with the marvel cinematic universe 
+
