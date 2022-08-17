@@ -7,5 +7,5 @@
 - 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Smart contract auditing 
 - 📫 How to reach me: twitter/victorchimakanu -  email: victorchimakanu@gmail.com 
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: In love with the marvel cinematic universe 
+- ⚡ Random facts: I'm probably one of the very few that enjoy test driven coding, huge fan of the marvel cinematic universe and Charismatic 😈
 
