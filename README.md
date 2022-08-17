@@ -8,5 +8,5 @@
 - 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Smart contract auditing 
 - 📫 How to reach me: twitter/victorchimakanu -  email: victorchimakanu@gmail.com 
 - 😄 Pronouns: He/His 
-- ⚡ Random facts: Goal Driven , I'm probably one of the very few that enjoy test driven coding, huge fan of the marvel cinematic universe , Charismatic 😈
+- ⚡ Random facts: Goal Driven , I enjoy test driven coding, Charismatic 😈
 
