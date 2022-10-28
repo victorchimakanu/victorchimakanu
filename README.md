@@ -6,7 +6,7 @@
 - 🤝 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking for help with Layer 2 scaling solutions 
 - 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Smart contract auditing 
-- 📫 reach me: @thetimetravelr_ | email: victorchimakanu@gmail.com 
+-  email: victorchimakanu@gmail.com 
 - Pronouns: He/His/Goat 😌🐐
 - ⚡ Random facts: Goal Driven , I enjoy test driven coding, Charismatic 
 
