@@ -1,12 +1,10 @@
 ### Hola! I'm Victor 👋
 
-- 🔭 I’m currently Coding a Decentralized Cryptocurrency Exchange
-- 🌱 I’m currently learning Smart Contract hacking, smart contract auditing, multichain
+- 🔭 I’m currently fostering developer communities
 - 👨🏾‍💻 Tech stack: Solidity / Javascript / React.js / Ethers.Js / Redux / Hardhat
 - 🤝 I’m looking to collaborate on blockchain projects
-- 🤔 I’m looking for help with Layer 2 scaling solutions 
-- 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Smart contract auditing 
--  email: victorchimakanu@gmail.com 
-- Pronouns: He/His/Goat 😌🐐
-- ⚡ Random facts: Goal Driven , I enjoy test driven coding, Charismatic 
+- 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Technical writing 
+- 📩 email: victorchimakanu@gmail.com 
+- 🐐 Pronouns: He/His/Goat 
+- ⚡ Random facts: I enjoy test driven coding, Charismatic, Goal driven  
 
