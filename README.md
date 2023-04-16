@@ -5,6 +5,5 @@
 - 🤝 I’m looking to collaborate on blockchain projects
 - 💬 Ask me about: Blockchain Development, Building and Deploying ERC-20 Tokens, Technical writing 
 - 📩 email: victorchimakanu@gmail.com 
-- 🐐 Pronouns: He/His/Goat 
 - ⚡ Random facts: I enjoy test driven coding, Charismatic, Goal driven  
 
